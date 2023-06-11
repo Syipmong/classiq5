@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>361602437616-mf7f7kj3m8l9us4o38ck66ui72ccsum8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.361602437616-mf7f7kj3m8l9us4o38ck66ui72ccsum8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgiKLVr3erleYrJXRKZD0t5i2Nuo0_FEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>361602437616</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.classiq.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>classiq-social</string>
+	<key>STORAGE_BUCKET</key>
+	<string>classiq-social.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:361602437616:ios:84b00e2d6d809f90548d35</string>
+</dict>
+</plist>

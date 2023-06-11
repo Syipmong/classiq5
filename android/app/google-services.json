@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "361602437616",
+    "project_id": "classiq-social",
+    "storage_bucket": "classiq-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361602437616:android:f15dfeecf1d6da27548d35",
+        "android_client_info": {
+          "package_name": "com.example.classiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361602437616-6fs8vv8jaaobi3rs78ov1thh3qe2a5ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98oJWpNKyyPf9y-RLAL_pWklj2AGKltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361602437616-6fs8vv8jaaobi3rs78ov1thh3qe2a5ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361602437616-21rh5l0phvmfom9jbh1l5g2ni8tphs1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.classiq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
